@@ -1,0 +1,15 @@
+{
+  "name": "dev_domino_migration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "form-data": "^2.4.0"
+  }
+}
